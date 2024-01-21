@@ -13,6 +13,5 @@ export default new Vuex.Store({
   actions: {
   },
   modules: {
-  },
-  mode:"history"
+  }
 })
