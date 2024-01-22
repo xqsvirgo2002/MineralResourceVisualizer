@@ -19,6 +19,7 @@ npm run lint
 ```
 ## Project Description
 Mineral Resource Visualizer is a web application that leverages front-end technologies such as Vue.js, ECharts, and Element UI to create an interactive visualization of global mineral resources. The application features multiple interactive charts and a world map for visualizing various aspects of mineral resources.
+![Project Structure]()
 
 ### Technologies Used
 - **Vue.js**: The project is built using Vue.js, a progressive JavaScript framework for building user interfaces. Vue.js provides a flexible and efficient way to create interactive web applications.
